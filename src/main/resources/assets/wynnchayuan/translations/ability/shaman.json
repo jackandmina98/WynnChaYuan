@@ -278,7 +278,7 @@
   },
   "af0854de67de": {
    "src": "Aura",
-   "dst": "氣場",
+   "dst": "靈波",
    "role": "name",
    "kind": "term",
    "ctx": [
@@ -291,7 +291,7 @@
   },
   "84a880196948": {
    "src": "Radiates an aura from your Totem\nthat damages enemies.",
-   "dst": "由你的圖騰觸散發靈氣，傷害周圍敵人。",
+   "dst": "由你的圖騰處散發靈波，傷害周圍敵人。",
    "role": "desc",
    "kind": "block",
    "ctx": [
@@ -334,7 +334,7 @@
   },
   "4f2ab903a01c": {
    "src": "{#} Range: ~{~} Blocks",
-   "dst": "{#} 距離：~{~} 格",
+   "dst": "{#} 範圍：~{~} 格",
    "role": "stat",
    "kind": "term",
    "ctx": [
@@ -444,7 +444,7 @@
   },
   "d541bb06081f": {
    "src": "Shocking Aura",
-   "dst": "迅雷氣場",
+   "dst": "迅雷靈波",
    "role": "name",
    "kind": "term",
    "ctx": [
@@ -780,7 +780,7 @@
   },
   "93e9ee63de0f": {
    "src": "Cheaper Aura",
-   "dst": "節約．氣場",
+   "dst": "節約．靈波",
    "role": "name",
    "kind": "term",
    "ctx": [
@@ -1410,7 +1410,7 @@
   },
   "5e513eaf9dfe": {
    "src": "{#} Lunatic: -{~} {#} Aura Cost",
-   "dst": "{#} 赤狂：{~} {#} 氣場消耗",
+   "dst": "{#} 赤狂：{~} {#} 靈波消耗",
    "role": "stat",
    "kind": "sentence",
    "ctx": [
@@ -1902,7 +1902,7 @@
   },
   "cf6ef1802975": {
    "src": "Cheaper Aura II",
-   "dst": "節約．氣場 II",
+   "dst": "節約．靈波 II",
    "role": "name",
    "kind": "term",
    "ctx": [
